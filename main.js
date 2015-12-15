@@ -4,6 +4,6 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 });
 
 var x = 4;
-var y = 5;
+
 var ss = document.getElementById("hi')
 
